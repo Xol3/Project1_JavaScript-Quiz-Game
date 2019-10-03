@@ -10,7 +10,6 @@ Objective: Create a Vanilla JavaScript/jQuery quiz game that takes multiple answ
 JavaScript Quiz Game. Start by creating a simple game that asks 4 multiple choice questions. Using those questions, assign them a value which will point to an outcome that will be displeyed on the DOM. You’ll learn a lot about data management and creating a scoring system in programming. Don’t spend too much time focusing on the design(CSS) of what you’re creating. Once you have built the logic leave the CSS to the very end.
 
 HOW TO APPROACH THIS PROBLEM
-
 OICE
 BUILD YOUR DIAGRAM
 PSEUDO CODE
